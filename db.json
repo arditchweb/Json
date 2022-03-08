@@ -1,11 +1,7 @@
-
-[
-  {
-    "id": 1,
-    "name": "Other team"
-  },
-  {
-    "id": 2,
-    "name": "Team for Sample Release"
-  }
-]
+{  
+    "employee": {  
+        "name":       "sonoo",   
+        "salary":      56000,   
+        "married":    true  
+    }  
+}  
