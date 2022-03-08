@@ -1,10 +1,11 @@
 
-{
-"Developer" : [
-{
-"ID" : 1,
-"Name" : "Ardit"
-
-},
-  ]
-{
+[
+  {
+    "id": "1",
+    "name": "Other team"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000206",
+    "name": "Team for Sample Release"
+  }
+]
